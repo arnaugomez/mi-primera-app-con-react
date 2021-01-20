@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Esta es nuestra primera aplicación de React en nuestro canal de JStack!
         </p>
         <a
           className="App-link"
